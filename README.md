@@ -4,7 +4,7 @@ This project showcases end-to-end analysis of a large-scale healthcare admission
 
 ## 📂 Dataset
 
-- Source: [Kaggle - Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset/code)
+- Source: [Kaggle - Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data))
 - Size: 55,500 records
 - Contains: Patient info, admissions, doctors, hospitals, billing, conditions, and more.
 
