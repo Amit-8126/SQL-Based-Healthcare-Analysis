@@ -12,7 +12,6 @@ This project showcases end-to-end analysis of a large-scale healthcare admission
 
 - **Excel** – Data cleaning (removing duplicates, standardizing names, creating IDs)
 - **MySQL Workbench** – Database schema design and SQL queries
-- **Draw.io / dbdiagram.io** – ERD creation
 - **MS Word / PDF** – Final report documentation
 
 ## 🔍 Key Analyses
